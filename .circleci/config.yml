@@ -182,7 +182,7 @@ jobs:
         default: false
       snapshots:
         type: boolean
-        default: false
+        default: true
     executor: test-executor
     parallelism: 6
     steps:
