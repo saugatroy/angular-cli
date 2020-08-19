@@ -34,7 +34,7 @@
   "devDependencies": {
     "@angular/compiler": "10.0.4",
     "@angular/compiler-cli": "https://767368-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-pr38076-7fc77a368d.tgz",
-    "typescript": "4.0.0-dev.20200721",
+    "typescript": "4.0.2-insiders.20200818",
     "webpack": "4.44.1"
   }
 }
